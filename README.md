@@ -2,4 +2,4 @@
 
 - 🔭 I'm currently working on **原神启动**
 
-- 🌱 I'm currently learning **哎刀马刀马**
+- 🌱 I'm currently learning **刀马刀马**
